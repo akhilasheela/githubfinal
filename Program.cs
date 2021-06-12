@@ -8,6 +8,7 @@ namespace githubfinal
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("GITHUB");
+            Console.WriteLine("Hello");
         }
     }
 }
